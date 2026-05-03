@@ -60,7 +60,7 @@ export default function LandingPage() {
           href: "#cta",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/business-man-stock-exchange-trader-looking-laptop-screen-night_169016-47424.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/business-man-stock-exchange-trader-looking-laptop-screen-night_169016-47424.jpg?_wi=1"
       mediaAnimation="slide-up"
       avatars={[
         {
@@ -258,7 +258,7 @@ export default function LandingPage() {
           quote: "Veltrix transformed my site from a dead page to my main lead source.",
           tag: "Conversion",
           avatarSrc: "http://img.b2bpic.net/free-photo/portrait-woman-smiling-kitchen_107420-12357.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/business-man-stock-exchange-trader-looking-laptop-screen-night_169016-47424.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/business-man-stock-exchange-trader-looking-laptop-screen-night_169016-47424.jpg?_wi=2",
           imageAlt: "business owner professional portrait",
         },
         {
