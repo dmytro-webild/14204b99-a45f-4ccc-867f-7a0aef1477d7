@@ -36,6 +36,8 @@ export default function LandingPage() {
           name: "Process",          id: "#process"},
         {
           name: "Book a Call",          id: "#cta"},
+        {
+          name: "🇩🇪",          id: "#lang-de"},
       ]}
       brandName="VD"
     />
