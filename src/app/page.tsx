@@ -37,7 +37,7 @@ export default function LandingPage() {
         {
           name: "Book a Call",          id: "#cta"},
       ]}
-      brandName="Veltrix Digital"
+      brandName="VD"
     />
   </div>
 
@@ -206,7 +206,7 @@ export default function LandingPage() {
   <div id="footer" data-section="footer">
       <FooterMedia
       imageSrc="http://img.b2bpic.net/free-photo/desktop-pc-wooden-desk-showcases-infographics-client-reach-data_482257-126353.jpg"
-      logoText="Veltrix Digital"
+      logoText="VD"
       columns={[
         {
           title: "Agency",          items: [
