@@ -51,7 +51,7 @@ export default function LandingPage() {
         {
           text: "Book a Free Call",          href: "#cta"},
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/business-man-stock-exchange-trader-looking-laptop-screen-night_169016-47424.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/business-man-stock-exchange-trader-looking-laptop-screen-night_169016-47424.jpg?_wi=1"
       mediaAnimation="slide-up"
       avatars={[
         {
@@ -173,7 +173,7 @@ export default function LandingPage() {
       useInvertedBackground={true}
       testimonials={[
         {
-          id: "t1",          name: "Sarah J.",          date: "Jan 2024",          title: "Local Cafe Owner",          quote: "Veltrix transformed my site from a dead page to my main lead source.",          tag: "Conversion",          avatarSrc: "http://img.b2bpic.net/free-photo/portrait-woman-smiling-kitchen_107420-12357.jpg",          imageSrc: "http://img.b2bpic.net/free-photo/business-man-stock-exchange-trader-looking-laptop-screen-night_169016-47424.jpg",          imageAlt: "business owner professional portrait"},
+          id: "t1",          name: "Sarah J.",          date: "Jan 2024",          title: "Local Cafe Owner",          quote: "Veltrix transformed my site from a dead page to my main lead source.",          tag: "Conversion",          avatarSrc: "http://img.b2bpic.net/free-photo/portrait-woman-smiling-kitchen_107420-12357.jpg",          imageSrc: "http://img.b2bpic.net/free-photo/business-man-stock-exchange-trader-looking-laptop-screen-night_169016-47424.jpg?_wi=2",          imageAlt: "business owner professional portrait"},
         {
           id: "t2",          name: "Mark D.",          date: "Dec 2023",          title: "Plumbing Services",          quote: "Finally getting calls from my website. Worth every penny.",          tag: "Growth",          avatarSrc: "http://img.b2bpic.net/free-photo/vertical-shot-friendly-asian-girl-smiling-serving-coffee-barista-giving-you-cup-coffee_1258-199251.jpg",          imageSrc: "http://img.b2bpic.net/free-photo/woman-with-face-protection-standing-with-arms-crossed_23-2148645172.jpg",          imageAlt: "business owner professional portrait"},
         {
